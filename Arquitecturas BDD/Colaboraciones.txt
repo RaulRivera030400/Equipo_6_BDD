@@ -21,4 +21,5 @@ Referencias:
 [9] Y. Breitbart, H. Korth, A. Silberschatz y S. Sudarshan. Distributed Databases, en Encyclopedia of Electrical and Electronics Engineering. John Wiley and Sons(1999) .
 [10] Hugo D(2006,Septiembre 19) Base de datos distribuidas[online] Disponible en: http://weblidi.info.unlp.edu.ar/
 
-
+Documento:
+https://docs.google.com/document/d/1DzxPfHuR4pR9Ztp9c7E71DMYi_vM0a_llGZsNZErzC4/edit?usp=sharing
