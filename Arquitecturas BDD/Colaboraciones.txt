@@ -14,4 +14,11 @@ Referencias:
 Solano Castrejón Eric
 Temas:
 Referencias:
+[5] Ermeneses,Bases de datos Avanzadas, Facultad de estadística e Informática, pp 5-19,2017 [online] Available: https://www.uv.mx/personal
+[6] A. Reyes, Aruitecturas ANSI/SPARK, pp. 1-5 [online] Disponible en: http://aisii.azc.uam.mx
+[7] Oracle(2022) Temas de base de datos, Disponible en: https://www.oracle.com/mx
+[8] Y. Camargo y F. Lugo(2013,Mayo 26) Características, componentes y arquitectura de los dbms [online] Disponible en: https://es.slideshare.net
+[9] Y. Breitbart, H. Korth, A. Silberschatz y S. Sudarshan. Distributed Databases, en Encyclopedia of Electrical and Electronics Engineering. John Wiley and Sons(1999) .
+[10] Hugo D(2006,Septiembre 19) Base de datos distribuidas[online] Disponible en: http://weblidi.info.unlp.edu.ar/
+
 
