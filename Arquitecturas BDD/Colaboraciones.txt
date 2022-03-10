@@ -12,7 +12,7 @@ Referencias:
 [4] E. G. Flores Castro, "Implementación de una base de datos heterogénea distribuida entre los SGBDs ORACLE, MySQL y PostgreSQL con replicación, mediante un script bash implementado en el sistema operativo CentOS usando software libre.", INNOVA Research Journal, vol. 3, pp. 68–77, febrero de 2018.
 
 Solano Castrejón Eric
-Temas:
+Temas: Arquitectura ANSI/SPARC, Arquitectura genérica centralizada DBMS, Modelos de arquitectura para DBMSs distribuidas
 Referencias:
 [5] Ermeneses,Bases de datos Avanzadas, Facultad de estadística e Informática, pp 5-19,2017 [online] Available: https://www.uv.mx/personal
 [6] A. Reyes, Aruitecturas ANSI/SPARK, pp. 1-5 [online] Disponible en: http://aisii.azc.uam.mx
