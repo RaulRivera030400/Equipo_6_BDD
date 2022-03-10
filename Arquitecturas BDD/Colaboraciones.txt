@@ -1,16 +1,2 @@
-Colaboración de cada integrante del equipo
 
-A continuacion se mencionan los temas que realizo cada integrante del equipo y las fuentes consultadas:
-
-Rivera Ortiz Raúl Alejandro
-Temas: Autonomía,Distribución,Heterogeneidad,Sistemas Cliente/Servidor y Peer to Peer
-
-Referencias:
-[1] "Distributed DBMS - Features, Needs and Architecture". [Internet]. Disponible en https://www.csitweb.com/distributed-dbms-features-needs-and-architecture
-[2] R. Chhanda. Distributed Database Systems. Pearson Education India, 2008.
-[3] Özsu, M. Tamer, Patrick Valduriez. Principles of Distributed Database Systems. Pearson Education, 2011.
-
-Solano Castrejón Eric
-Temas:
-Referencias:
 
