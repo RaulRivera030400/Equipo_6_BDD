@@ -1,2 +1,17 @@
+Colaboración de cada integrante del equipo
 
+A continuacion se mencionan los temas que realizo cada integrante del equipo y las fuentes consultadas:
+
+Rivera Ortiz Raúl Alejandro
+Temas: Autonomía,Distribución,Heterogeneidad,Sistemas Cliente/Servidor y Peer to Peer
+
+Referencias:
+[1] "Distributed DBMS - Features, Needs and Architecture". [Internet]. Disponible en https://www.csitweb.com/distributed-dbms-features-needs-and-architecture
+[2] R. Chhanda. Distributed Database Systems. Pearson Education India, 2008.
+[3] Özsu, M. Tamer, Patrick Valduriez. Principles of Distributed Database Systems. Pearson Education, 2011.
+[4] E. G. Flores Castro, "Implementación de una base de datos heterogénea distribuida entre los SGBDs ORACLE, MySQL y PostgreSQL con replicación, mediante un script bash implementado en el sistema operativo CentOS usando software libre.", INNOVA Research Journal, vol. 3, pp. 68–77, febrero de 2018.
+
+Solano Castrejón Eric
+Temas:
+Referencias:
 
