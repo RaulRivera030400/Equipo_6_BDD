@@ -1,4 +1,4 @@
-En esta carpeta están los elementos necesarios para ejecutar el proyecto
+En la carpeta Proyecto1 están los elementos necesarios para ejecutar el proyecto
 
 AdventureWorks2019.bak se debe restablecer en SQLServer
 AdventureWorks2019_MySQL.sql se debe restablecer en MySQL
