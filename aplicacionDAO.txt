@@ -1,0 +1,20 @@
+Equipo: 6
+Alumnos:Rivera Ortiz Raúl Alejandro
+	Solano Castrejón Eric
+
+
+Los documentos de esta actividad se encuentran en la ruta:
+Equipo_6_BDD/Entregables/AplicacionDAO/
+
+Los archivos que integran la actividad son:
+
+	AdventureWorks2019.bak se debe restablecer en SQLServer
+
+	AdventureWorks2019_MySQL.sql se debe restablecer en MySQL
+
+	Stored Procedure Inserts.sql contiene los Stored Procedure utilizados 
+
+	Proyecto1 es la aplicación en Java, ahí se debe ajustar los datos de las instancias correspondientes 
+	a su equipo una vez se tengan las bases de datos en MySQL y SQLServer
+
+
