@@ -9,3 +9,4 @@ Equipo_6_BDD/Entregables/PlanesEjecuciónCovid/
 Archivos que integran el ejercicio
 1.- Tablas_copia        -- Contiene la sentencia de las tablas copias utilizadas con sus respectivos índices.
 2.- Consultas_Covid.sql	-- Contiene las soluciones de las consultas con sus respectivas propuestas de mejora.
+3. Planes_De_Ejecución.pdf --Reporte del ejercicio
